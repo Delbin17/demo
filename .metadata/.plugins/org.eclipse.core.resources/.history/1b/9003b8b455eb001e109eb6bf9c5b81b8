@@ -1,0 +1,49 @@
+package operator.java;
+
+import java.util.Scanner;
+
+public class sample {
+	public static void main(String args[]) {
+		int a=4;
+		
+		/*if(a >=90){
+		  System.out.println("A grade");
+		}
+		else if(a>=80&&a<90){
+			System.out.println("B grade");
+		}
+		else if (a>=70&&a<80) {
+			System.out.println("c grade");
+			
+		}
+		else if(a>=60&&a<70) {
+			System.out.println("d grade");
+		}
+		else {
+			
+			System.out.println("fail");
+		if(a>100) {
+		
+		    if(a<150) {
+			    System.out.println("hi");*/
+       switch(a%2){
+       case 0:
+    	   System.out.println("this is even number");
+    	   break;
+       case 1:
+    	   System.out.println("this is odd number");
+    	   break;
+       
+		}
+		
+			
+			
+			
+		  
+	}
+	}
+  
+
+	
+
+

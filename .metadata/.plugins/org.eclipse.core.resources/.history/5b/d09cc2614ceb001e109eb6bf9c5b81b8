@@ -1,0 +1,40 @@
+package operator.java;
+
+import java.util.Scanner;
+
+public class sample {
+	public static void main(String args[]) {
+		int mark=100;
+		//Scanner sc=new Scanner(System.in);
+		//int a=sc.nextInt();
+		//int b=sc.nextInt();
+		//System.out.println(b);
+		//int c=90;
+		//if(a%2==0) {
+	
+		///System.out.println(a>10);
+		//System.out.println(a=10);
+		//System.out.println(a+=10);
+		//System.out.println(a-=10);
+		//System.out.println(a/10);
+		//System.out.println(a%10);
+		//System.out.println((a==10?"true":"false"));
+		//System.out.println((a==2?"true":"false"));
+		//System.out.println(a>=10?"true":"false");
+		//System.out.println((a%2==0?"the num is even":"the num is odd"));
+		//System.out.println((a>b?"a is greater":"b is greater"));
+		//System.out.println((a>b)&&(a>c)?"a is greater":(b>a)&&(b>c)?"b is greater":"c is greater");
+		//System.out.println'print((a<b)&&(a<c)?"a is smaller":((b<a)&&(b<c)?"b is smaller":"c is smaller"));
+	     //System.out.println("the num is  even");
+		if(90<=100);{
+		  System.out.println("A grade");
+		}
+		  
+	}
+}
+		
+		  
+	
+	
+
+
