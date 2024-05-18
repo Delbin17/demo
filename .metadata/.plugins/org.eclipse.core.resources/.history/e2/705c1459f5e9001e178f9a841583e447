@@ -1,8 +1,0 @@
-package operator.java;
-
-public class retn {
-	 public static void main(String args[]) {
-		 System.out.println("the num is  even");
-	 }
-
-}
